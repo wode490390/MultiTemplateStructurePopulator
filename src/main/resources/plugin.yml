@@ -1,0 +1,9 @@
+main: cn.wode490390.nukkit.multitspop.MultiTemplateStructurePopulator
+name: "MultiTemplateStructurePopulator"
+description: "Multi-template structure populator plugin for Nukkit"
+author: "wode490390"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: STARTUP
+#softdepend: ["MobPlugin"]
